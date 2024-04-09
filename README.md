@@ -14,3 +14,6 @@ I am GoldenBerry that is Golden. Although I don't know how to code I want to lea
     <img src="https://skillicons.dev/icons?i=html,css,ableton,github,md,replit,vscode" />
   </a>
 </p>
+
+********************
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenBerrythatisGolden)](https://github.com/anuraghazra/github-readme-stats)
