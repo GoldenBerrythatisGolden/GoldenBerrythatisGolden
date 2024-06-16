@@ -8,10 +8,17 @@ I am GoldenBerry that is Golden. Although I don't know how to code I want to lea
   </a>
 </p>
 
-### I use:
+### Programming languages, Markup Languages, etc:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,md,replit,vscode,github,ableton" />
+    <img src="https://skillicons.dev/icons?i=html,css,md" />
+  </a>
+</p>
+
+### Tools I use:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=replit,vscode,github,ableton" />
   </a>
 </p>
 
