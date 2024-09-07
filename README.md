@@ -4,7 +4,7 @@ I am GoldenBerry that is Golden. Although I don't know how to code I want to lea
 ### Currently Learning:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=c,visualstudio" />
   </a>
 </p>
 
